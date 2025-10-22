@@ -7,15 +7,15 @@ Utilizo ferramentas como Python, Pandas e SQL para manipulação, limpeza e visu
 Estou motivado a crescer profissionalmente, colaborar com equipes diversas e contribuir com soluções baseadas em dados que gerem valor real.
 
 🚀 Tecnologias que uso
-Python 🐍
-Pandas 📊
-SQL 🗄️
-Jupyter Notebook
-Visualização com Matplotlib e Seaborn
+Python 🐍.
+Pandas 📊.
+SQL 🗄️.
+Jupyter Notebook.
+Visualização com Matplotlib e Seaborn.
 
 📫 Contato
-LinkedIn: https://www.linkedin.com/in/vitor-maximiano-66170b357
-E-mail: vitormaxsantosprofissional@gmail.com
+LinkedIn: https://www.linkedin.com/in/vitor-maximiano-66170b357.
+E-mail: vitormaxsantosprofissional@gmail.com.
 
 🇺🇸 English
 👋 About me
@@ -26,15 +26,15 @@ I use tools like Python, Pandas, and SQL for data manipulation, cleaning, and vi
 I'm highly motivated to grow professionally, collaborate with diverse teams, and contribute with data-driven solutions that generate real value.
 
 🚀 Technologies I use
-Python 🐍
-Pandas 📊
-SQL 🗄️
-Jupyter Notebook
-Visualization with Matplotlib and Seaborn
+Python 🐍.
+Pandas 📊.
+SQL 🗄️.
+Jupyter Notebook.
+Visualization with Matplotlib and Seaborn.
 
 📫 Contact
-LinkedIn: https://www.linkedin.com/in/vitor-maximiano-66170b357
-Email: vitormaxsantosprofissional@gmail.com
+LinkedIn: https://www.linkedin.com/in/vitor-maximiano-66170b357.
+Email: vitormaxsantosprofissional@gmail.com.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
