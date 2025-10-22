@@ -35,3 +35,8 @@ Visualization with Matplotlib and Seaborn
 📫 Contact
 LinkedIn: https://www.linkedin.com/in/vitor-maximiano-66170b357
 Email: vitormaxsantosprofissional@gmail.com
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</div>
