@@ -31,7 +31,7 @@ I use tools like Python, Pandas, and SQL for data manipulation, cleaning, and vi
 
 I'm highly motivated to grow professionally, collaborate with diverse teams, and contribute with data-driven solutions that generate real value.
 
-
+---
 🚀 Technologies I use
 
 Python 🐍: Pandas, Matplotlib, NumPy, SciPy, SckitLearn.
@@ -46,9 +46,6 @@ SQL 🗄️: SQLite, SQLserver.
 
 ***📊Estátisticas / Stats***
 
-<h3 align="center">📊 Estatísticas e Tecnologias</h3>
-
-<!-- Container geral com flexbox -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
   <!-- Bloco em português -->
@@ -65,11 +62,11 @@ SQL 🗄️: SQLite, SQLserver.
       <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       <img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     </p>
-    <img alt="GitHub stats em português" src="https://github-readme-stats.vercel.app/api?username=vitormaximiano-santos&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+    <img alt="GitHub stats em português" src="https://github-readme-stats.vercel.app/api?username=vitormaximiano-santos&show_icons=true&theme=radical&include_all_commits=true&hide=commits&locale=pt-br" />
     <br><br>
     <img alt="Linguagens mais usadas (PT-BR)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormaximiano-santos&layout=compact&theme=radical&locale=pt-br" />
   </div>
-
+---
   <!-- Bloco em inglês -->
   <div>
     <h4 align="center">🇺🇸 Technologies (EN)</h4>
