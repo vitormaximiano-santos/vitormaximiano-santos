@@ -1,5 +1,5 @@
 # 🧑‍💻 Vitor Maximiano 
-Analista De Dados / Data Analyst 
+Analista De Dados / Data Analyst -
 Programador Python / Python Programmer
 ---
 🇧🇷 Português
